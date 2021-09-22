@@ -6,3 +6,5 @@ To start training models run the `run.sh` via terminal:
 ```
 sh run.sh
 ```
+
+__*Pretrained models ready for use are in*__ : `.\models`
